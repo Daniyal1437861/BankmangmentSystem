@@ -82,3 +82,12 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
+        
+#Working example 
+
+account1=BankAccont("Muhammad Danish", '5432', 0) 
+print (accunt1. deposit (1000) ) 
+print (accunt1. withdraw (1000) )
+accunt1. display() 
+
+
