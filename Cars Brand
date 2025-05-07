@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lexus ES Company</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Header with Logo -->
+  <header class="site-header">
+    <img src="https://via.placeholder.com/150x50?text=Lexus+Logo" alt="Lexus ES Logo" class="logo" />
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>Experience Power and Elegance with Lexus ES</h1>
+      <p>Drive the future with our hybrid and electric models — combining performance, luxury, and innovation.</p>
+      <a href="#models" class="cta-button">Explore Models</a>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="about">
+    <div class="container">
+      <h2>About Lexus ES Company</h2>
+      <p>We are dedicated to redefining driving with sustainable innovation. Our range of vehicles blends cutting-edge design with a green future, offering top-tier hybrid and electric options for modern drivers.</p>
+    </div>
+  </section>
+
+  <!-- Models/Gallery Section -->
+  <section class="models" id="models">
+    <div class="container">
+      <h2>Our Featured Models</h2>
+      <div class="model-gallery">
+        <img src="https://via.placeholder.com/300x200?text=Model+1" alt="Model 1" />
+        <img src="https://via.placeholder.com/300x200?text=Model+2" alt="Model 2" />
+        <img src="https://via.placeholder.com/300x200?text=Model+3" alt="Model 3" />
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
